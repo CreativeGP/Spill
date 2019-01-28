@@ -3,7 +3,7 @@
    $Date: Jan 01 2019 $
    $Revision: $
    $Creator: Creative GP $
-   $Notice: (C) Copyright 2018 by Creative GP. All Rights Reserved. $
+   $Notice: (C) Copyright 2019 by Creative GP. All Rights Reserved. $
    ======================================================================== */
 
 #include <iostream>
